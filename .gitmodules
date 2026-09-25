@@ -1,0 +1,9 @@
+[submodule "cloudmart-config-server"]
+	path = cloudmart-config-server
+	url = https://github.com/vihanapathum/cloudmart-config-server.git
+[submodule "cloudmart-service-registry"]
+	path = cloudmart-service-registry
+	url = https://github.com/vihanapathum/cloudmart-service-registry.git
+[submodule "cloudmart-api-gateway"]
+	path = cloudmart-api-gateway
+	url = https://github.com/vihanapathum/cloudmart-api-gateway.git
